@@ -12,7 +12,7 @@ module.exports = {
     }, {
       "id": "zqydCount",
       "name": "账号个数",
-      "val": "1",
+      "val": "7",
       "type": "number",
       "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
     }, {
@@ -52,7 +52,6 @@ module.exports = {
       "type": "number",
       "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
     }],
-
     "favIcon": "mdi-star-outline",
     "favIconColor": "grey",
     "datas": [{
