@@ -23,5 +23,4 @@ jobs:
       - name: '运行 【kkz】'
         run: |
           node Task/zqkkhear.js
-        env:
-          zqydbody: ${{ secrets.ZQYDBODY }}
+    
