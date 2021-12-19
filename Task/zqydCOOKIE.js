@@ -10,26 +10,8 @@ module.exports = {
       "type": "number",
       "desc": "当前抓取ck记录的账号序号，如：1、2、3、4"
     }, {
-      "id": "zqydCount",
-      "name": "账号个数",
-      "val": "1",
-      "type": "number",
-      "desc": "指定任务最多跑几个账号，根据抓取的账号数据个数来设值"
-    }, {
       "id": "zqydXH",
       "name": "循环获取ck",
-      "val": "0",
-      "type": "number",
-      "desc": "0关闭，1打开，默认关闭"
-    }, {
-      "id": "zqydTXTX",
-      "name": "txtx",
-      "val": "0",
-      "type": "number",
-      "desc": "0关闭，1打开，默认关闭"
-    }, {
-      "id": "zqydSC",
-      "name": "sc",
       "val": "0",
       "type": "number",
       "desc": "0关闭，1打开，默认关闭"
