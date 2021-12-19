@@ -22,4 +22,4 @@ jobs:
           npm install request
       - name: '运行 【kkz】'
         run: |
-          node Task/zqkkhear.js
+          node Task/zqkkzddb.js
