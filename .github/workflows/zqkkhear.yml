@@ -22,6 +22,6 @@ jobs:
           npm install request
       - name: '运行 【kkz】'
         run: |
-          node Task/zqkkhear.j
+          node Task/zqkkhear.js
         env:
           zqydbody: ${{ secrets.ZQYDBODY }}
