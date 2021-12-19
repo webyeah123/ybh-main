@@ -60,7 +60,7 @@ module.exports = {
     "favIconColor": "grey",
     "datas": [{
       "key": "zqydbody",
-      "val": "$request.zqydbody.split"
+      "val": " "
     }]
     "sessions": [],
     "isLoaded": true
