@@ -31,7 +31,7 @@ jobs:
       - name: '运行 【zqkkhear】'
         if: env.zqydbody
         run: |
-          node zqkkhear.js
+          node task/zqkkhear.js
         env:
           zqydbody: ${{ secrets.ZQYDBODY }}
         
